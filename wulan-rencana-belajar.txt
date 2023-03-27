@@ -2,10 +2,11 @@ RENCANA BELAJAR WULAN
 
 - Bahasa Indonesia
   * Cerpen
-    ^ Tujuan
-    ^ Kaidah Kebahasaan
+    ^ Definisi
+    ^ Struktur
   * Proposal
 - Matematika
   * Polinomial
 - Bahasa Inggris
 - Pendidikan Pancasila
+- Bahasa Jawa
